@@ -1,0 +1,12 @@
+C:\Users\andre\Desktop\Инженерное проектирование\AveryanovCoursework3\AveryanovCoursework3\bin\Debug\AveryanovCoursework3.exe.config
+C:\Users\andre\Desktop\Инженерное проектирование\AveryanovCoursework3\AveryanovCoursework3\bin\Debug\AveryanovCoursework3.exe
+C:\Users\andre\Desktop\Инженерное проектирование\AveryanovCoursework3\AveryanovCoursework3\bin\Debug\AveryanovCoursework3.pdb
+C:\Users\andre\Desktop\Инженерное проектирование\AveryanovCoursework3\AveryanovCoursework3\bin\Debug\ZedGraph.dll
+C:\Users\andre\Desktop\Инженерное проектирование\AveryanovCoursework3\AveryanovCoursework3\obj\Debug\AveryanovCoursework3.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\Инженерное проектирование\AveryanovCoursework3\AveryanovCoursework3\obj\Debug\AveryanovCoursework3.Main.resources
+C:\Users\andre\Desktop\Инженерное проектирование\AveryanovCoursework3\AveryanovCoursework3\obj\Debug\AveryanovCoursework3.Properties.Resources.resources
+C:\Users\andre\Desktop\Инженерное проектирование\AveryanovCoursework3\AveryanovCoursework3\obj\Debug\AveryanovCoursework3.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Инженерное проектирование\AveryanovCoursework3\AveryanovCoursework3\obj\Debug\AveryanovCoursework3.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Инженерное проектирование\AveryanovCoursework3\AveryanovCoursework3\obj\Debug\AveryanovCoursework3.csproj.CopyComplete
+C:\Users\andre\Desktop\Инженерное проектирование\AveryanovCoursework3\AveryanovCoursework3\obj\Debug\AveryanovCoursework3.exe
+C:\Users\andre\Desktop\Инженерное проектирование\AveryanovCoursework3\AveryanovCoursework3\obj\Debug\AveryanovCoursework3.pdb
